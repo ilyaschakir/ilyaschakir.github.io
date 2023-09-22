@@ -1,2 +1,2 @@
-# ilyaschakir.github.io
-Sito del diario della lezione, con gli appunti presi in classe
+# Appunti e materiale
+Sito per gestire gli appunti presi a lezione
