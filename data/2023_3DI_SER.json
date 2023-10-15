@@ -1,18 +1,11 @@
 {
   "lessons": [
     {
-      "date": "12/09/2023",
+      "date": "26/09/2023",
       "title": "Lezione 1",
       "text": "1.html",
       "text_made_by": "Ilyas Chakir",
       "questions": "1_questions.json"
-    },
-    {
-      "date": "15/09/2022",
-      "title": "Lezione 2",
-      "text": "2.html",
-      "text_made_by": "Ilyas Chakir",
-      "questions": "2_questions.json"
     }
   ]
 }  
